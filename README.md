@@ -33,12 +33,18 @@ Furthermore, I collaborate on projects at [LabVisio](https://visio.ufes.br/)(*a 
             <a href="https://flask.palletsprojects.com/en/2.1.x/">
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt,title="Flask" height="40" width="40" />
             </a>
+            <a href="https://go.dev/">
+                <img src="https://www.nixsolutions.com/uploads/2020/07/Golang.png" alt,title="GO Lang" height="40" width="40" />
+            </a>
+            <a href="https://www.djangoproject.com/">
+                <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/django-icon.png" alt,title="Django" height="40" width="40" />
+            </a>
             <a href="https://opencv.org/">
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt,title="OpenCV" height="40" width="40" />
             </a>
             <a href="https://jupyter.org/">
                 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" alt,title="Jupyter Notebooks" height="40" width="40" />
-            </a>
+            </a>           
             <a href="https://numpy.org/">
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt,title="Numpy" height="40" width="40" />
             </a>
