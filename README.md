@@ -73,10 +73,10 @@ Furthermore, I collaborate on projects at [LabVisio](https://visio.ufes.br/)(*a 
     <br>
         <p align="center">
             <a href="https://github.com/luizcarloscf">
-                <img alt="seiberthenrique's Github Stats" src="https://github-readme-stats.vercel.app/api?username=seiberthenrique&theme=github_light&show_icons=true&line_height=27&count_private=true" height="180em" />
+                <img alt="seiberthenrique's Github Stats" src="https://github-readme-stats.vercel.app/api?username=seiberthenrique&theme=github_light&show_icons=true&line_height=27&count_private=true" height="150em" />
             </a>
             <a href="https://github.com/luizcarloscf">
-                <img alt="seiberthenrique's Github Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seiberthenrique&layout=compact&theme=github_light&show_icons=true&line_height=27" height="180em"  />
+                <img alt="seiberthenrique's Github Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seiberthenrique&layout=compact&theme=github_light&show_icons=true&line_height=27" height="150em"  />
             </a>
         </p>
     <br>
