@@ -63,7 +63,7 @@ Furthermore, I collaborate on projects at [LabVisio](https://visio.ufes.br/)(*a 
             <a href="https://dash.plotly.com/">
               <img src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-ar21.png" alt,title="Plotly" height="40" width="40" />
             </a>
-           
+</details>
 <details>
     <summary> Contact </summary>
     <br>
