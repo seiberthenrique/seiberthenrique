@@ -22,7 +22,7 @@ Furthermore, I collaborate on projects at [LabVisio](https://visio.ufes.br/)(*a 
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt,title="C++" height="40" width="40" />
             </a>
             <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
-                <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt,title="Javascript height="40" width="40" />
+                <img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/javascript-map-1.png" alt,title="Javascript height="40" width="40" />
             </a>
             <a href="https://www.mathworks.com/products/matlab.html">
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt,title="MatLab" height="40" width="40" />
