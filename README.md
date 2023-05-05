@@ -67,6 +67,20 @@ Furthermore, I collaborate on projects at [LabVisio](https://visio.ufes.br/)(*a 
               <img src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-ar21.png" alt,title="Plotly" height="40" width="40" />
             </a>
 </details>
+ 
+<details>
+    <summary> Github Stats </summary>
+    <br>
+        <p align="center">
+            <a href="https://github.com/luizcarloscf">
+                <img alt="seiberthenrique's Github Stats" src="https://github-readme-stats.vercel.app/api?username=seiberthenrique&theme=github_light&show_icons=true&line_height=27&count_private=true" height="180em" />
+            </a>
+            <a href="https://github.com/luizcarloscf">
+                <img alt="seiberthenrique's Github Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seiberthenrique&layout=compact&theme=github_light&show_icons=true&line_height=27" height="180em"  />
+            </a>
+        </p>
+    <br>
+</details>                                                                                                                                                                                                                                       
 <details>
     <summary> Contact </summary>
     <br>
