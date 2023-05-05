@@ -63,4 +63,18 @@ Furthermore, I collaborate on projects at [LabVisio](https://visio.ufes.br/)(*a 
             <a href="https://dash.plotly.com/">
               <img src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-ar21.png" alt,title="Plotly" height="40" width="40" />
             </a>
+           
+<details>
+    <summary> Contact </summary>
+    <br>
+        <p align="center">
+            <a href="mailto:henriquebarcellos123@gmail.com">
+                <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail"/>
+            </a>
+            <a href="https://www.linkedin.com/in/henrique-barcellos-634686202/">
+                <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+            </a>
+        </p>
+    <br>
+</details>
        
